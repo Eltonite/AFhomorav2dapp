@@ -1,4 +1,4 @@
-# AFhomorav2dapp
+# AFHomoraV2Dapp
 
 
 Dapp extension project idea with Alpha Finance's Homora V2 Dapp
